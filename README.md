@@ -4,9 +4,9 @@
 
 ## Formulae
 
-| Formula | Description |
-|---|---|
-| [gatir](https://github.com/fralken/gatir) | Authenticating proxy for corporate proxies (NTLM, Kerberos) |
+| Formula | Version | Description |
+|---|---|---|
+| [gatir](https://github.com/fralken/gatir) | 0.2.0 | Authenticating proxy for corporate proxies (NTLM, Kerberos) |
 
 ## Installation
 

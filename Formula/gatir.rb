@@ -7,13 +7,13 @@ class Gatir < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/fralken/gatir/releases/download/v0.1.0/gatir-0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "26b8e9f81776207bf8514e112316dd7b8abcc930dc9a91b92cc19b198ea0ea3f"
+      url "https://github.com/fralken/gatir/releases/download/v0.2.0/gatir-0.2.0-aarch64-apple-darwin.tar.gz"
+      sha256 "6639173545bcf924cce25e9552b6d90a382c0b98850ccd2e5318ca691c64d57d"
     end
 
     on_intel do
-      url "https://github.com/fralken/gatir/releases/download/v0.1.0/gatir-0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "1400407ed40e6bea5d6b91b368f0b9d8104405993fb66081b2deed879fe271b7"
+      url "https://github.com/fralken/gatir/releases/download/v0.2.0/gatir-0.2.0-x86_64-apple-darwin.tar.gz"
+      sha256 "3fa5e4c113ebb994422b1961bdfd6c5b59408c0e6e47f3c196f0b05eac6ae3d3"
     end
   end
 
